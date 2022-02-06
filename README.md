@@ -10,7 +10,3 @@
 
 🧠 `A lot of dedication and patience will always be the key to evolve!`
   - Muita dedicação e paciência sempre vai ser a chave para evoluir!
-
-
-
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-ramos-batista-ab4216206//)
