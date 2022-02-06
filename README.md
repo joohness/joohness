@@ -11,4 +11,4 @@
 🧠 `A lot of dedication and patience will always be the key to evolve!`
   - Muita dedicação e paciência sempre vai ser a chave para evoluir!
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ramos-batista-ab4216206/">My LinkedIn Profile!</a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ramos-batista-ab4216206/" target="_blank">My LinkedIn Profile!</a>
