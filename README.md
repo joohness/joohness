@@ -1,16 +1,16 @@
 ### Hi there 👋
+🖖`I'm João Vitor Ramos Batista.`
+  - Eu sou o João Vitor Ramos Batista.
 
-<!--
-**joohness/joohness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 `Despite being new in the area I really like the web language and I'm always trying to learn more and more about HTML5 and CSS3.`
+  - Apesar de ser novo na área, gosto muito da linguagem web e estou sempre tentando aprender mais e mais sobre HTML5 e CSS3.
 
-Here are some ideas to get you started:
+👀 `Currently I am also learning about the Javascript programming language to be able to specialize better as a Front-End Developer.`
+  - Atualmente também estou aprendendo sobre a linguagem de programação Javascript, para poder me especializar melhor como Desenvolvedor Front-End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 `A lot of dedication and patience will always be the key to evolve!`
+  - Muita dedicação e paciência sempre vai ser a chave para evoluir!
+
+
+
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-ramos-batista-ab4216206//)
